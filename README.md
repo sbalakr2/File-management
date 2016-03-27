@@ -11,4 +11,9 @@ Strategies used for keeping track of the deleted space:
   (i) First fit
   (ii) Best fit
   (iii) Worst fit
+  
+Compilation command: g++ assn_2.cpp -o assn_2
+Executing the code: ./assn_2 --first-fit file_name.txt
+
+Note: --first-fit can be replaced by --best-fit or --worst-fit
 
